@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.header{
+    background-color: #e6afbb8b;
+    width: 1920px;
+    height: 850px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 120px;
+    
+}
+.h-image{
+    width: 635px;
+    height: 800px;
+    margin-top: 50px;
+   
+}
+.heading{
+    width: 708px;
+    height: 288px;
+    font-size: 80px;
+    font-weight: bolder;
+    margin-bottom: 20px;
+
+}
+.htext{
+    width: 634px;
+    height: 90px;
+    line-height: 30px;
+    font-size: 18px;
+    color: rgba(39, 39, 39, 0.60);
+    margin-bottom: 20px;
+}
+.btn{
+    padding: 20px 42px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #E55473;
+    color: white;
+    border-radius: 8px;
+    border: none;
+}
+.header-info{
+    align-items: center;
+    width: 50%;
+    
+}
+.heading-2{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin: 24px;
+}
+ 
+.text{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    width: 594px;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin: auto;
+}
+.header-2{
+    align-items: center;
+    text-align: center;
+    justify-items: center;
+    margin:48px;
+}
+.box-model{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    margin: 0 24px 32px 0px;
+    
+}
+.pic-1{
+    width: 310px;
+    height: 428px;
+    margin:110px 78px 0px 75px;
+}
+.pic-2{
+    width: 370px;
+    height: 370px;
+    margin: 118px 47px;
+}
+.pic-3{
+    width: 314px;
+    height: 471px;
+    margin:67px 78px 0px 75px;
+}
+.box-name{
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+}
+.box-item{
+
+    justify-items: center;
+    margin: auto;
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+    margin: 40px 240px 40px 240px;
+}
+.box-img{
+    width: 342px;
+    height: 396px;
+     
+} 
+.info{
+    background-image: url(/image/Rectangle\ 9.png);
+    width: 1440px;
+    height: 449px;
+    margin: 40px 240px 40px 240px;
+}
+.foter{
+width: 1920px;
+height: 449px;
+flex-shrink: 0;
+background: #111010;
+}
+.section{
+    width: 1920px;
+}
