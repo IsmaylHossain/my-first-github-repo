@@ -125,13 +125,59 @@
     width: 1440px;
     height: 449px;
     margin: 40px 240px 40px 240px;
+    justify-content: center;
+    text-align: center;
+    background-repeat: no-repeat;
+}
+.info-item{
+    padding: 100px;
+    
 }
 .foter{
 width: 1920px;
 height: 449px;
-flex-shrink: 0;
+ text-align: center;
 background: #111010;
+color: white;
+align-items: center;
 }
 .section{
     width: 1920px;
+
+}
+.input{
+
+width: 700px;
+height: 64px;
+align-items: center;
+border-radius: 8px;
+background: #FFF;
+margin-top: 40px;
+border: none;
+}
+.foter-item{
+     
+    padding: 100px;
+}
+.spam{
+    color: #E55473;
+   
+}
+.foter-head{
+    text-align: center;
+    margin:48px;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin: 24px;
+}
+.foter-text{
+    text-align: center;
+    width: 594px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin: auto;
+    
 }
