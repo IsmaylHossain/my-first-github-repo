@@ -14,6 +14,16 @@
     margin-bottom: 120px;
     
 }
+.header-1{
+    background-color: #e6afbb8b;
+    width: 1920px;
+    height: 620px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 120px;
+    
+}
 .h-image{
     width: 635px;
     height: 800px;
