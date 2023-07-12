@@ -44,6 +44,8 @@
     color: white;
     border-radius: 8px;
     border: none;
+    margin-top: 10px;
+
 }
 .header-info{
     align-items: center;
@@ -59,7 +61,7 @@
 }
  
 .text{
-    color: rgba(39, 39, 39, 0.60);
+    color: rgba(118, 115, 115, 0.6);
     text-align: center;
     width: 594px;
     font-size: 18px;
@@ -79,6 +81,22 @@
     height: 538px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
+    margin: 0 24px 32px 0px;
+    
+}
+.box-model-1{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    margin: 0 24px 32px 0px;
+    
+}
+.box-model-2{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
     margin: 0 24px 32px 0px;
     
 }
@@ -121,7 +139,7 @@
      
 } 
 .info{
-    background-image: url(/image/Rectangle\ 9.png);
+    background-image: url(image/rectangle-9.png);
     width: 1440px;
     height: 449px;
     margin: 40px 240px 40px 240px;
@@ -146,14 +164,14 @@ align-items: center;
 
 }
 .input{
-
+padding-left: 10px;
 width: 700px;
 height: 64px;
-align-items: center;
 border-radius: 8px;
 background: #FFF;
-margin-top: 40px;
+margin-top: 30px;
 border: none;
+margin-right: 10px;
 }
 .foter-item{
      
